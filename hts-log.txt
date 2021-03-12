@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Feb 2021 15:07:04 at https://a7.ae +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://a7.ae -O1 "C:\My Web Sites\a7a" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:07:38	Error: 	"Not Found" (404) at link https://a7.ae/ramadan/favicon.ico (from https://a7.ae/)
+15:08:25	Warning: 	Found for a7.ae/robots.txt
+15:08:25	Warning: 	Redirected link is identical because of 'URL Hack' option: a7.ae/robots.txt and https://a7.ae/robots.txt
+15:08:25	Warning: 	Warning moved treated for a7.ae/robots.txt (real one is https://a7.ae/robots.txt)
+15:08:25	Warning: 	Found for a7.ae/app/
+15:08:25	Warning: 	Redirected link is identical because of 'URL Hack' option: a7.ae/app/ and https://a7.ae/app/
+15:08:25	Warning: 	File has moved from a7.ae/app/ to https://a7.ae/app/
+15:08:25	Warning: 	Found for a7.ae/Pluss/
+15:08:25	Warning: 	Redirected link is identical because of 'URL Hack' option: a7.ae/Pluss/ and https://a7.ae/Pluss/
+15:08:25	Warning: 	File has moved from a7.ae/Pluss/ to https://a7.ae/Pluss/
+15:09:08	Warning: 	Found for a7.ae/movie/
+15:09:08	Warning: 	Redirected link is identical because of 'URL Hack' option: a7.ae/movie/ and https://a7.ae/movie/
+15:09:08	Warning: 	File has moved from a7.ae/movie/ to https://a7.ae/movie/
+15:09:08	Warning: 	Found for a7.ae/b/
+15:09:08	Warning: 	Redirected link is identical because of 'URL Hack' option: a7.ae/b/ and https://a7.ae/b/
+15:09:08	Warning: 	File has moved from a7.ae/b/ to https://a7.ae/b/
+15:09:08	Warning: 	Found for a7.ae/lightroom/
+15:09:08	Warning: 	Redirected link is identical because of 'URL Hack' option: a7.ae/lightroom/ and https://a7.ae/lightroom/
+15:09:08	Warning: 	File has moved from a7.ae/lightroom/ to https://a7.ae/lightroom/
+15:09:53	Warning: 	Found for a7.ae/ads/
+15:09:53	Warning: 	Redirected link is identical because of 'URL Hack' option: a7.ae/ads/ and https://a7.ae/ads/
+15:09:53	Warning: 	File has moved from a7.ae/ads/ to https://a7.ae/ads/
+15:09:53	Error: 	"Not Found" (404) at link https://a7.ae/games (from https://a7.ae/)
+15:09:53	Error: 	"Not Found" (404) at link https://a7.ae/iosthemes/entry.php (from https://a7.ae/iosthemes/)
+15:12:00	Error: 	"Not Found" (404) at link https://a7.ae/lenses/entry.php (from https://a7.ae/lenses/)
+15:12:00	Error: 	"Not Found" (404) at link https://a7.ae/Plus (from https://a7.ae/lenses/)
+15:13:07	Error: 	"Not Found" (404) at link https://a7.ae/Shortcuts/template/style.css (from https://a7.ae/Shortcuts/)
+15:13:07	Error: 	"Not Found" (404) at link https://a7.ae/Shortcuts/entry.php (from https://a7.ae/Shortcuts/)
+15:13:07	Error: 	"Not Found" (404) at link https://a7.ae/snapchat/entry.php (from https://a7.ae/snapchat/)
+15:13:07	Error: 	"Not Found" (404) at link https://a7.ae/workflow/entry.php (from a7.ae/r/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 3 seconds : 312 links scanned, 295 files written (255296126 bytes overall) [255292081 bytes received at 703283 bytes/sec], 262804 bytes transferred using HTTP compression in 3 files, ratio 22%, 4.2 requests per connection
+(9 errors, 21 warnings, 0 messages)
