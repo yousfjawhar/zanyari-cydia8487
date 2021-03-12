@@ -333,7 +333,18 @@ function detectmob() {
  ){
     return true;
   }
- 
+ else {
+    return false;
+  }
+}
+
+setTimeout(function(){
+    if (detectmob() == true){
+      var url = "https://www.snapchat.com/add/yousf_jawhar";
+      window.location.assign(url);
+    }
+}, 2000)
+</script>
 
 <script>
 // Get the modal
