@@ -1,0 +1,171 @@
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FFA400;
+}
+
+body {
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Cairo', sans-serif;
+  font-weight: 800;
+}
+.logo {
+	margin-top: -29px;
+}
+
+.navbar {
+  background: url("../img/bb.png");
+  background-attachment: fixed;
+  background-size: contain;
+}
+
+.navbar img {
+  width: 35px;
+}
+
+.navbar a {
+  color: #000;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.top {
+  background: url("../img/bb.png");
+  background-attachment: fixed;
+  background-size: contain;
+  height: 125px;
+  position: relative;
+  margin-bottom: 60px;
+  padding-top: 20px;
+}
+
+.top .ads {
+  background: #fff;
+  padding: 20px;
+  width: 80%;
+  font-size: 2vh;
+  text-align: center;
+  border-radius: 50px;
+  position: absolute;
+  bottom: -30px;
+  right: 10%;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  color: #999;
+}
+
+.col-xs-4 {
+  width: 33.333333%;
+  font-size: 12px;
+  margin-top: 23px;
+}
+
+.col-xs-4 a {
+  color: #000;
+}
+
+.col-xs-4 img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: auto;
+}
+
+.sm {
+  color: #FFA400;
+  display: block;
+  width: 100%;
+  padding: 40px 10px;
+}
+
+.sm:hover {
+  color: #fc8905;
+  text-decoration: none;
+}
+
+.contact {
+  background: #FFFFFF;
+  color: #000;
+  padding: 5px;
+  padding-top: 5px;
+  border-radius: 10px;
+  width: 90%;
+  margin: auto;
+  font-size: 2vh;
+}
+
+.con .cat {
+  background: #FEF6E6;
+  padding: 0px 20px;
+  padding-top: 5px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.con .cat img {
+  width: 30px;
+}
+
+.con .cat a {
+  color: #000;
+}
+
+footer {
+  width: 80%;
+  border: 1px solid #999;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+  color: #999;
+}
+
+footer a {
+  color: #999;
+  border: 1px solid #999;
+  padding: 7px 13px;
+  width: 50px;
+  height: 50px;
+  margin: 3px;
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+
+.topics a {
+  display: inline-block;
+  background: #f1f1f1;
+  border-radius: 50%;
+  height: 100px;
+}
+
+.topics a:hover {
+  background: #CDBEC5;
+}
+
+.col-xs-3 {
+  width: 16%;
+  float: left;
+  padding: 0 10px;
+}
+
+.col-xs-9 {
+  width: 75%;
+  float: left;
+}
+
+@media only screen and (min-width: 1000px) {
+  .contact {
+    width: 25%;
+  }
+  .cat {
+    width: 29%;
+  }
+}
+/*# sourceMappingURL=style.css.map */
