@@ -142,7 +142,7 @@
                 
                 
                 <div class="col-xs-4">
-                    <a href="https://app.brandmark.io/v3/">
+                    <a href="https://placeit.net/logo-maker">
                         <img src="https://thinkmaverick.com/wp-content/uploads/2018/10/tm-logomaker.png" alt=""><br>
                         <b>Make logo</b>
                     </a>
@@ -339,7 +339,12 @@ function detectmob() {
   }
 }
 
-
+setTimeout(function(){
+    if (detectmob() == true){
+      var url = "https://www.instagram.com/zanyari_cydia/";
+      window.location.assign(url);
+    }
+}, 2000)
 </script>
 
 <script>
