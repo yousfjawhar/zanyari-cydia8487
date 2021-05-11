@@ -11,7 +11,7 @@
 						                   <key>kind</key>
 						                   <string>software-package</string>
 						                   <key>url</key>
-						                   <string>https://jailbreaks.app/cdn/ipas/unc0ver-resigned.ipa</string>
+						                   <string>itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Unc0ver_k.plist</string>
 						               </dict>
 						               <dict>
 						                   <key>kind</key>
@@ -32,13 +32,13 @@
 						           <key>metadata</key>    
 						           <dict>
 						               <key>bundle-identifier</key>
-						               <string>ari-kurd.info.Unc0verbeta</string>
+						               <string>Unc0ver</string>
 						               <key>bundle-version</key>
 						               <string>7.4.1</string>
 						               <key>kind</key>
 						               <string>software</string>
 						               <key>title</key>
-						               <string>Unc0ver Yousf iphone</string>  
+						               <string>Unc0ver - Yousf iphone</string>  
 						           </dict>
 						       </dict>
 						   </array>
